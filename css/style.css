@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.parallax-website{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/image1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.main-heading{
+    background-color: rgb(57, 57, 57);
+    width: 33%;
+    margin: auto;
+    position: relative;
+    top: 47%;
+    border: 1px solid rgb(40, 40, 40);
+
+}
+.main-heading h1{
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 27px;
+    letter-spacing: 6px;
+}
+
+
+.section-one{
+    text-align: center;
+    color: rgb(125, 123, 123);
+    padding: 55px;
+}
+.section-one h2{
+    font-weight: 600;
+    font-size: 23px;
+}
+.section-one p{
+    line-height: 26px;
+}
+
+
+.explore-nature{
+    background-image: url("../images/image2.png");
+    height: 65%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.gray-background{
+    background-color: rgb(45, 42, 42);
+    color: #fff;
+}
+
+.width-correction{
+    width: 45%; 
+}
+.background-correction{
+    background-image: url(../images/image3.png);
+}
